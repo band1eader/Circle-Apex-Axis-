@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-black text-white font-sans antialiased;
+    background-color: #000000;
+  }
+}
+
+@layer components {
+  .industrial-border {
+    @apply border border-white/20 transition-colors hover:border-white/40;
+  }
+  
+  .ritual-text {
+    @apply tracking-widest uppercase text-sm;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
