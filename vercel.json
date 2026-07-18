@@ -2,13 +2,5 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
-  "framework": "vite",
-  "env": {
-    "VITE_SITE_URL": "@VITE_SITE_URL"
-  },
-  "env_overrides": {
-    "preview": {
-      "VITE_SITE_URL": "@VITE_SITE_URL_PREVIEW"
-    }
-  }
+  "framework": "vite"
 }
