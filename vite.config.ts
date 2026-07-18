@@ -11,9 +11,11 @@ export default defineConfig({
   },
   build: {
     outDir: 'dist',
-    sourcemap: true,
+    sourcemap: false,
+    minify: 'terser',
   },
   server: {
     port: 3000,
+    open: true,
   },
 });

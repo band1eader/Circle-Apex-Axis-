@@ -3,15 +3,23 @@ node_modules/
 npm-debug.log
 yarn-error.log
 pnpm-debug.log
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+.nyc_output/
 
 # Build
 dist/
 build/
+*.tsbuildinfo
 
 # Environment
 .env
 .env.local
 .env.*.local
+.env.production.local
 
 # IDE
 .vscode/
@@ -20,7 +28,12 @@ build/
 *.swo
 *~
 .DS_Store
+*.iml
 
 # Misc
 .cache
 .prettierignore
+.vercel
+
+# OS
+Thumbs.db
