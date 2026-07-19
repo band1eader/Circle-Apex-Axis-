@@ -4,16 +4,14 @@ Official digital distribution hub for Circle Apex Axis. Contains archival metada
 
 ## About
 
-Circle Apex Axis is an NYC-based sovereign creative project exploring avant-rock, electronica, and instrumental composition. This site serves as the central hub for all releases, news, and communit...
+Circle Apex Axis is an NYC-based creative project exploring avant-rock, electronica, and instrumental composition. This site serves as the central hub for all releases, news, and community resources for listeners and collaborators.
 
-## Listen & Follow
+## Follow
 
-Quick links so visitors can find and follow Circle Apex Axis across platforms:
-
-- 🎧 Apple Music (artist ID: 1887059935) — https://music.apple.com/artist/1887059935
-- 💿 Bandcamp — Hidden Name (album) — https://circleapexaxis.bandcamp.com/album/hidden-name
-- 🔗 SoundClick — Search "Circle Apex Axis" on SoundClick or visit https://www.soundclick.com/
-- 🌐 Bluesky — @circleapexaxis.bsky.social — https://bsky.app/profile/circleapexaxis.bsky.social
+- 🎧 Apple Music — https://music.apple.com/artist/1887059935
+- 💿 Bandcamp — https://circleapexaxis.bandcamp.com/album/hidden-name
+- 🔗 SoundClick — https://www.soundclick.com/
+- 🌐 Bluesky — https://bsky.app/profile/circleapexaxis.bsky.social
 
 ## Features
 
